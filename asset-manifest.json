@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tondo/static/css/main.fb441a67.css",
+    "main.js": "/tondo/static/js/main.c28eb366.js",
+    "index.html": "/tondo/index.html",
+    "main.fb441a67.css.map": "/tondo/static/css/main.fb441a67.css.map",
+    "main.c28eb366.js.map": "/tondo/static/js/main.c28eb366.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb441a67.css",
+    "static/js/main.c28eb366.js"
+  ]
+}
